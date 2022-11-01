@@ -1,0 +1,40 @@
+﻿
+*{
+	margin:0;
+	padding: 0;
+}
+body {
+    font-family: Roboto, sans-serif;
+  	height: 100%;
+    max-width: 1600px;
+    margin: auto;
+    font-size: 14px;
+    color: #333;
+
+}
+
+.header-body{
+	display: flex;
+  	justify-content: center;	
+}
+
+.position-center>.first-table>tr>th{
+	max-width: 600px;
+	height: 600px;
+
+
+}
+.position-center>.first-table>tr>th{
+	display: flex;
+	justify-content: left-start;
+}
+.textForm{
+	color: red;
+}
+table, th , tr {
+	border: 1px solid ;
+}
+
+.first-table >tbody> tr>th {
+	padding-left: 60px;
+}
